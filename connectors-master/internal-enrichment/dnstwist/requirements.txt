@@ -1,0 +1,4 @@
+pycti==6.2.8
+dnstwist==20240116
+dnspython
+whois
